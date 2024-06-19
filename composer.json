@@ -1,5 +1,5 @@
 {
-    "name": "SnedS91/laravel-revisions",
+    "name": "sneds91/laravel-revisions",
     "description": "Create multiple revisions of any Eloquent model record along with its underlying relationships",
     "license": "MIT",
     "keywords": [
